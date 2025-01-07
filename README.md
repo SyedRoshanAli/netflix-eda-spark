@@ -1,4 +1,4 @@
-#### ***Dataset for this project*** : https://www.kaggle.com/datasets/shivamb/netflix-shows
+#### ***Dataset for this project*** : https://www.kaggle.com/code/akshatjainds/netflix-movies-and-tv-shows
 
 
 
